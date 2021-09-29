@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://example.org/peliculas/la-jungla-de-cristal/</loc>
+    <lastmod>2021-09-27T09:10:17+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/peliculas/</loc>
+    <lastmod>2021-09-27T09:10:17+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/</loc>
+    <lastmod>2021-09-27T09:10:17+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/varios/</loc>
+    <lastmod>2021-09-21T10:15:52+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/enlaces/</loc>
+    <lastmod>2021-09-21T10:10:16+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/contacto/</loc>
+    <lastmod>2021-09-21T09:58:29+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/categories/</loc>
+  </url><url>
+    <loc>http://example.org/search/</loc>
+    <priority>0.1</priority>
+  </url><url>
+    <loc>http://example.org/tags/</loc>
+  </url>
+</urlset>
