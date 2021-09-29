@@ -1,0 +1,24 @@
+baseURL = 'http://example.org/'
+languageCode = 'es-es'
+title = 'Sitio Hugo de Prueba'
+theme = 'tale'
+
+[menu]
+    [[menu.main]]
+	    identifier = "contacto"
+	    name = "Contacto"
+	    title = "Contacto"
+	    url = "/contacto/"
+        weight = 2
+    [[menu.main]]
+	    identifier = "varios"
+	    name = "Varios"
+	    title = "Varios"
+	    url = "/varios/"
+        weight = 4
+    [[menu.main]]
+	    identifier = "enlaces"
+	    name = "Enlaces"
+	    title = "Enlaces"
+	    url = "/enlaces/"
+        weight = 4
